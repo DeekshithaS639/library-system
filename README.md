@@ -39,7 +39,7 @@ Create a .env file in the root directory:
 ini
 Copy
 Edit
-DATABASE_URL="mysql://user:password@localhost:3306/library"
+DATABASE_URL="mysql://user:password@localhost:3306/library_db"
 4️⃣ Set Up the Database
 Run the following command to apply migrations:
 
